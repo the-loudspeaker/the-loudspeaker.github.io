@@ -1,0 +1,12 @@
+---
+layout: default
+img: theloudspeakersblog.png
+category: Projects
+title: The_LoudSpeaker's Blog.
+description: |
+---
+[https://theloudspeaker.home.blog](https://theloudspeaker.home.blog)
+
+A personal blog where I talk about all things Operating Systems.
+
+‘Distro-hopping’ is my favourite way to waste time. So I decided to document some of it on this blog. You might also see some other things here. (You have been warned.)

@@ -1,0 +1,10 @@
+---
+layout: default
+img: lubuntu-grub-theme.png
+category: Projects
+title: Lubuntu grub Theme.
+description: |
+---
+[https://github.com/the-loudspeaker/lubuntu-grub-theme](https://github.com/the-loudspeaker/lubuntu-grub-theme)
+
+Simple grub theme written from scratch for Lubuntu. Takes inspirations from breeze grub theme. This theme is default grub theme for [Lubuntu](https://lubuntu.me) since Lubuntu 20.10.

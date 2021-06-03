@@ -1,0 +1,33 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.theloudspeaker.social
+title: Raman Sarda
+email: ramansarda2000@gmail.com
+author: Raman Sarda
+description: > 
+  Hii there, I am Raman Sarda, a software developer specialising in developing softwares for Linux Systems.
+
+copyright: 'Copyright &copy; 2020 Raman Sarda. All Rights Reserved.'
+credits: 'Credits: This site is created using Jekyll and deployed using GitHub pages. You can find the source code on <a href="https://github.com/the-loudspeaker/portfolio">GitHub</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/sarda_raman
+  - title: github
+    url: https://github.com/the-loudspeaker
+  - title: linkedin
+    url: https://www.linkedin.com/in/theloudspeaker/

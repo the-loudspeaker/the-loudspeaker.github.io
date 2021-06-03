@@ -1,0 +1,12 @@
+---
+layout: default
+img: voting.png
+category: Projects
+title: Blockchain Election Voting App.
+description: |
+---
+[https://youtu.be/x2f4ZbLE4Zg](https://youtu.be/x2f4ZbLE4Zg)
+
+A election voting app based on blockchain. Focused on making EVMs hackproof and on instantaneous counting of votes. The blockchain used consists a dictionary of data, hash of previous block and a hash of both of these.
+
+This project is a team effort for Microsoft CodeFunDo++ 2019. Source can be found [here](https://github.com/the-loudspeaker/Blockchain-election).

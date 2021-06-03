@@ -1,0 +1,12 @@
+---
+layout: default
+img: pi-wifi.jpg
+category: Projects
+title: Video Streaming over MPTCP.
+description: |
+---
+[https://github.com/the-loudspeaker/raspicam-stream](https://github.com/the-loudspeaker/raspicam-stream)
+
+A small client-server script pair which records live video stream from Raspberry Pi camera and transfers it over to server using MPTCP.
+
+Uses picamera to capture video stream from client side. Matplotlib is used to display the images on server side. Works with any scheduler and any combination of connections between client and server as long as MPTCP is configured correctly.

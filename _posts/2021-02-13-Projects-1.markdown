@@ -1,0 +1,12 @@
+---
+layout: default
+img: mptcp.png
+category: Projects
+title: Raspberry Pi MPTCP kernel
+description: |
+---
+[https://github.com/the-loudspeaker/raspi-mptcp-kernel](https://github.com/the-loudspeaker/raspi-mptcp-kernel)
+
+Compiled binaries of linux 5.4 kernel with MultiPath TCP support. I couldn't find any builds for Raspberry Pi so decided to build one from source.
+
+[MultiPath TCP](https://multipath-tcp.org) is an effort towards enabling the simultaneous use of several IP-addresses/interfaces by a modification of TCP that presents a regular TCP interface to applications, while in fact spreading data across several subflows. Benefits of this include better resource utilization, better throughput and smoother reaction to failures.

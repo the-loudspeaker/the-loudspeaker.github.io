@@ -1,0 +1,12 @@
+---
+layout: default
+img: theloudspeakersapp.jpg
+category: Projects
+title: The_LoudSpeaker's Blog App.
+description: |
+---
+[https://github.com/the-loudspeaker/theloudspeakersblogapp](https://github.com/the-loudspeaker/theloudspeakersblogapp)
+
+Android App for reading blog posts from [The_LoudSpeaker's Blog](https://theloudspeaker.home.blog/)
+
+Nothing fancy. Just a attempt at Android App development.
